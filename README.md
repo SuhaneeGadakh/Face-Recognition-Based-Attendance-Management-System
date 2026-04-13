@@ -104,11 +104,6 @@ Follow these instructions to get the project running efficiently on your local m
 **Main Interface Module**<br/>
 <img src="https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/1.PNG" alt="Simple UI" width="600"/>
 
-**Image Acquisition Phase**<br/>
-<img src="https://user-images.githubusercontent.com/26384517/86820502-c7f44500-c0a6-11ea-9530-6317ec2059d9.png" alt="While taking Image" width="600"/>
-
-**Real-time Recognition and Attendance Logging**<br/>
-<img src="https://user-images.githubusercontent.com/26384517/86821090-9465ea80-c0a7-11ea-9680-777923663d0c.png" alt="While taking Attendance" width="600"/>
 
 **Tabular Data Presentation**<br/>
 <img src="https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/7.PNG" alt="Attendance in tabular format" width="600"/>
